@@ -80,4 +80,5 @@ Model ideas:
 
 Feel free to connect or contribute!
 
-> Built with ❤️ by [Your Name]
+> Built with ❤️ by [Kavin.S]
+> mail: ssppkavin@gmail.com
